@@ -1,9 +1,0 @@
-{
-	"name": "covid-reporting-adf-mtv",
-	"location": "eastus",
-	"identity": {
-		"type": "SystemAssigned",
-		"principalId": "284d3d32-693a-407f-8517-d3cd716e4162",
-		"tenantId": "3e0513d6-68fa-416e-8de1-6c5cdc319ffa"
-	}
-}
