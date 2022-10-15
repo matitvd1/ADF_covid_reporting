@@ -1,1 +1,1 @@
-Support files of pipelines and dataflows of covid reporting
+Support files of covid reporting course
